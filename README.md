@@ -1,1 +1,1 @@
-- ###[Typescript](https://github.com/shishirahman/Learn-Some-Core-Topic/blob/main/TypeScript-claude.md)
+- [Typescript](https://github.com/shishirahman/Learn-Some-Core-Topic/blob/main/TypeScript-claude.md)
